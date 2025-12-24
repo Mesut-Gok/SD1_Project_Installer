@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD1_GUI", "SD1_GUI\SD1_GUI.csproj", "{F13565F9-E2D0-48D5-A7B5-AF40D1B535CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SD1_Setup", "SD1_Setup\SD1_Setup.vdproj", "{5F036170-D441-3CDE-8C3C-AAAD7BA4B650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13565F9-E2D0-48D5-A7B5-AF40D1B535CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13565F9-E2D0-48D5-A7B5-AF40D1B535CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13565F9-E2D0-48D5-A7B5-AF40D1B535CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13565F9-E2D0-48D5-A7B5-AF40D1B535CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F036170-D441-3CDE-8C3C-AAAD7BA4B650}.Debug|Any CPU.ActiveCfg = Debug
+		{5F036170-D441-3CDE-8C3C-AAAD7BA4B650}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C42703A-9833-41F3-9A0D-0CEE03568FBC}
+	EndGlobalSection
+EndGlobal

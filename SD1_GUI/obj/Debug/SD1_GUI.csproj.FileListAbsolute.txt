@@ -1,0 +1,11 @@
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\obj\Debug\SD1_GUI.csproj.AssemblyReference.cache
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\obj\Debug\SD1_GUI.Form1.resources
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\obj\Debug\SD1_GUI.Properties.Resources.resources
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\obj\Debug\SD1_GUI.csproj.GenerateResource.cache
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\obj\Debug\SD1_GUI.csproj.CoreCompileInputs.cache
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\bin\Debug\SD1_GUI.exe.config
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\bin\Debug\SD1_GUI.exe
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\bin\Debug\SD1_GUI.pdb
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\obj\Debug\SD1_GUI.exe
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\obj\Debug\SD1_GUI.pdb
+C:\Users\mesut\source\repos\SD1_GUI\SD1_GUI\obj\Debug\SD1_GUI.exe.config
